@@ -133,7 +133,7 @@ pox==0.3.4
 ppft==1.7.6.8
 prompt_toolkit==3.0.47
 propcache==0.2.0
-protobuf==5.29.0
+protobuf==4.25.5
 psutil==6.0.0
 psycopg==3.2.3
 ptyprocess==0.7.0
